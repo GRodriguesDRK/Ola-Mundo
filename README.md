@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro repositorio CursoEmVideo
+# Olá, Mundo! 
+Primeiro repositório de Git e Github
+Repositorio Teste
+
